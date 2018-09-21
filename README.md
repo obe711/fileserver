@@ -11,6 +11,7 @@ Install
 $ git clone git@github.com:obe711/fileserver.git
 $ bash install.sh
 ```
+Make sure you open access to port: 445 through your firewall
 
 Logging Into the File Server
 ----------------------------
